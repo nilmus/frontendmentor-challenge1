@@ -19,7 +19,7 @@ body {
     border-radius: 5%;
 }
 
-.card h2, h3 {
+.card {
     font-family: Outfit, sans-serif;
 }
 
